@@ -1,4 +1,3 @@
-[CanofyMD.md](https://github.com/user-attachments/files/24376866/CanofyMD.md)
 # Canofy MD: AI 기반 만성질환 및 피부질환 진단 보조 플랫폼
 
 ## 1. 프로젝트 소개 (Introduction)
